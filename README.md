@@ -1,6 +1,5 @@
 Task 2
 
-
 Use public e-shop site >> https://demowebshop.tricentis.com/
 
 •	Verify that allows register a User
